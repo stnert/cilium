@@ -27,7 +27,7 @@ charset-normalizer==2.1.1
 colorama==0.4.5
 deepmerge==1.0.1
 docutils==0.17.1
-idna==3.3
+idna==3.7
 imagesize==1.4.1
 Jinja2==3.0.3
 jsonschema==4.14.0
